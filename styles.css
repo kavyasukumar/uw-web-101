@@ -1,0 +1,17 @@
+p {
+  color: red;
+}
+
+#lede {
+  color: blue;
+  font-size: 24px;
+}
+
+body {
+  background-color: #e7edce;
+}
+
+#dynamic {
+  font-style: italic;
+  text-align: center;
+}
